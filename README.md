@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gaia3D, Inc. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.gaia3d.com
+Gaia3D, Inc. provides cutting‑edge digital twin and geospatial analysis solutions, leveraging modern 3D visualization technologies such as Cesium, MapTiler, and 3D Tiles. Their platform enables clients to create immersive, data‑rich virtual representations of real‑world environments for applications in earth science, urban planning, and infrastructure management. Gaia3D offers cloud‑based services that integrate spatial data processing, real‑time analytics, and interactive visualization to deliver actionable insights and enhance decision‑making across industries.
+
+**Areas:** Geospatial · Digital Twin · 3D Visualization · GIS · Cloud Services
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.gaia3d.com)
+- [GitHub](https://github.com/Gaia3D)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gaia3d-inc/](https://apis.io/providers/gaia3d-inc/).
